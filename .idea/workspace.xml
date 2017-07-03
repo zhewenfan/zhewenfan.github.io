@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec145921-025a-47f9-b190-9181e9b471ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg.jpg" afterPath="$PROJECT_DIR$/images/bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="$PROJECT_DIR$/images/pic02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -36,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="61" column="60" lean-forward="false" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+            <state relative-caret-position="330">
+              <caret line="54" column="84" lean-forward="false" selection-start-line="54" selection-start-column="84" selection-end-line="54" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -209,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="61" column="60" lean-forward="false" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+        <state relative-caret-position="330">
+          <caret line="54" column="84" lean-forward="false" selection-start-line="54" selection-start-column="84" selection-end-line="54" selection-end-column="84" />
           <folding />
         </state>
       </provider>
